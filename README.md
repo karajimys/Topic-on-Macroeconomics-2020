@@ -3,16 +3,18 @@ Course teached at the 8th semester in Economics Department, University of Piraeu
 
 Professor Claire Economidou
 
-=============
-Folders
 
+Folders
 =============
+
+
 2019: 
 
-*Older Files used in the course
+-Older Files used in the course
+
 
 Extras: 
 
-*Intro in Data Management in Stata 
+-Intro in Data Management in Stata.html
 
-*Graphs in Stata
+-Graphs in Stata.html
