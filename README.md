@@ -6,16 +6,16 @@ Professor Claire Economidou
 
 Folders
 =============
-1. Lesson 4.3.2020 - Data Management:
--Intro in Data Management in Stata.html [file used in the lesson]
--Introduction to Data Management.do [do-file with the code used in the lesson]
+1. Lesson 4.3.2020 - Data Management:<br/>
+-Intro in Data Management in Stata.html [file used in the lesson]<br/>
+-Introduction to Data Management.do [do-file with the code used in the lesson]<br/>
  
  
-Extras: 
--Intro in Data Management in Stata.html
+Extras: <br/>
+-Intro in Data Management in Stata.html<br/>
 
--Graphs in Stata.html
+-Graphs in Stata.html<br/>
 
-Files2019: 
+Files2019: <br/>
 
 -Older Files used in the course
