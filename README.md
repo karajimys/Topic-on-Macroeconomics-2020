@@ -12,6 +12,15 @@ Folders
  
  <br/>
  <br/>
+ 
+ First Assignment :<br/>
+* Assignment.pdf [Your first Assignment!]<br/>
+* file1.dta [first data file needed for your assignment]<br/>
+* file2.dta [second data file needed for your assignment]<br/>
+
+
+ <br/>
+ <br/>
 Extras: <br/>
 -Intro in Data Management in Stata.html<br/>
 -Graphs in Stata.html<br/>
